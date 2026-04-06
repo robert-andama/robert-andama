@@ -23,16 +23,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,php,laravel,vue,js,ts,html,css,mysql,postgres,mongodb,docker,aws,firebase,git" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,php,laravel,spring,vue,js,ts,html,css,mysql,postgres,mongodb,docker,aws,firebase,git" />
 
 </p>
-
----
-
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -67,6 +60,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-andama&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
