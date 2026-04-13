@@ -69,13 +69,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-Total Time: 15 mins
+Total Time: 0 secs
 
-Other      1 hr 46 mins          ██████████████████████░░░   87.63 %
-Markdown   9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-YAML       5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
