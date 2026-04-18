@@ -69,14 +69,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Total Time: 1 hr 23 mins
+Total Time: 1 hr 24 mins
 
-Other      3 hrs 56 mins         ██████████████████▒░░░░░░   73.84 %
-PHP        41 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Markdown   32 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-YAML       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Other      4 hrs 9 mins          ██████████████████▓░░░░░░   74.82 %
+PHP        41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Markdown   32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+YAML       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
