@@ -69,12 +69,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
 Total Time: 2 hrs 17 mins
 
-Other      10 hrs 23 mins        ████████████████████▒░░░░   81.96 %
-PHP        2 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+Other      10 hrs 11 mins        ████████████████████▒░░░░   81.69 %
+PHP        2 hrs 14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
 JSON       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
