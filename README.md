@@ -69,14 +69,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 17 mins
+Total Time: 18 mins
 
-Other          4 hrs 17 mins         ███████████████████████▒░   93.69 %
-Vue            16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Image (svg)    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other          8 hrs 6 mins          ████████████████████████░   96.33 %
+Vue            17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Image (svg)    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 XML            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
