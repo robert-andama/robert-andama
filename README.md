@@ -69,12 +69,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2026 - To: 16 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
 Total Time: 9 mins
 
-Other   11 hrs 20 mins        ████████████████████████▓   98.61 %
-Vue     9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other   8 hrs 17 mins         ████████████████████████▓   98.11 %
+Vue     9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
