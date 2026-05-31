@@ -69,12 +69,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-Total Time: 54 mins
+Total Time: 1 hr 15 mins
 
-Other   19 hrs 20 mins        ████████████████████████░   95.55 %
-Vue     54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Other   19 hrs 18 mins        ███████████████████████▒░   93.85 %
+Vue     1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 ```
 
 <!--END_SECTION:waka-->
