@@ -19,13 +19,34 @@
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,php,laravel,spring,vue,js,ts,html,css,mysql,postgres,mongodb,docker,aws,firebase,git" />
-
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter" />
 </p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,spring" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git" />
+</p>
+
+
 
 ---
 
