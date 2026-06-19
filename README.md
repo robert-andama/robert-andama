@@ -92,15 +92,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 18 June 2026
+From: 12 June 2026 - To: 19 June 2026
 
-Total Time: 13 hrs 45 mins
+Total Time: 12 hrs 46 mins
 
-Other            12 hrs 2 mins         ███████████▓░░░░░░░░░░░░░   46.70 %
-Markdown         6 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-PHP              3 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Vue              2 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Makefile         1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Other            15 hrs 5 mins         █████████████▓░░░░░░░░░░░   54.14 %
+Markdown         5 hrs 37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+PHP              3 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Vue              1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Makefile         1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
