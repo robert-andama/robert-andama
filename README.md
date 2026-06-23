@@ -12,7 +12,7 @@
 I’m a **Full Stack Developer with 8+ years of experience** building scalable mobile and web applications.
 
 - Specializing in **Android (Kotlin + Jetpack Compose)**
-- Backend expert in **Spring Boot, Symphony, Laravel & API architecture**
+- Backend expert in **Spring Boot, Symfony, Laravel & API architecture**
 - Expanding into **DevOps (Docker, AWS, CI/CD)**
 - Strong advocate for **Clean Architecture & MVI patterns**
 - Passionate about building **real-world impactful products**
@@ -28,22 +28,22 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,spring" />
+  <img src="https://skillicons.dev/icons?i=symfony,laravel,spring,fastapi" />
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs,js,ts,html,css,tailwind" />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,kubernetes,c,vim" />
 </p>
 
 
@@ -62,7 +62,7 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 | 💼 **JengaBanking — Member Portal** | A modular, microservices-based Core Banking System (CBS) built for SACCOs and community financial institutions. Designed for the Uganda Credit & Savings Cooperative Union (UCSCU) and adaptable for any SACCO or MFI. | Laravel, Vue 3 + TypeScript, Inertia.js 2, Tailwind CSS v4 | Modular service design, workflow automation, extensible architecture |
 | 🚗 **Ride Hailing API** | A RESTful backend system powering ride-hailing operations, including trip management, driver-passenger interactions, and booking flows. | JAVA Spring Boot, REST API | Scalable API design, service-oriented architecture, real-time booking logic |
 | 🌱 **Smart Agriculture Network** | An IoT-driven agriculture platform that collects and processes environmental data to enable smart farming decisions and resource optimization. | IoT, Backend Systems | Sensor integration, real-time monitoring, data-driven insights |
-| 📊 **CRB Data Warehouse** | A centralized data aggregation and processing system for financial/credit data, supporting analytics, reporting, and decision-making pipelines. | Symphony, Data Systems | ETL pipelines, data normalization, scalable reporting architecture |
+| 📊 **CRB Data Warehouse** | A centralized data aggregation and processing system for financial/credit data, supporting analytics, reporting, and decision-making pipelines. | Symfony, Data Systems | ETL pipelines, data normalization, scalable reporting architecture |
 | 🙏 **Prayer For All People** | A community-driven platform enabling users to share and engage with structured prayer content in a scalable digital environment. | Laravel | User-generated content system, simple scalable backend |
 | 🐔 **Poultry Management System** | A domain-specific farm management system for poultry operations, tracking livestock lifecycle, production metrics, and farm efficiency. | VueJs | Livestock tracking, farm analytics, optimized data modeling |
  
