@@ -12,7 +12,7 @@
 🚀 I’m a **Full Stack Developer with 8+ years of experience** building scalable mobile and web applications.
 
 - 📱 Specializing in **Android (Kotlin + Jetpack Compose)**
-- 🌐 Backend expert in **Laravel & API architecture**
+- 🌐 Backend expert in **Spring Boot, Symphony, Laravel & API architecture**
 - ⚙️ Expanding into **DevOps (Docker, AWS, CI/CD)**
 - 🧠 Strong advocate for **Clean Architecture & MVI patterns**
 - 💡 Passionate about building **real-world impactful products**
