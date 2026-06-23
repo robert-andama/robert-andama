@@ -9,39 +9,39 @@
 
 ## About Me
 
-🚀 I’m a **Full Stack Developer with 8+ years of experience** building scalable mobile and web applications.
+I’m a **Full Stack Developer with 8+ years of experience** building scalable mobile and web applications.
 
-- 📱 Specializing in **Android (Kotlin + Jetpack Compose)**
-- 🌐 Backend expert in **Spring Boot, Symphony, Laravel & API architecture**
-- ⚙️ Expanding into **DevOps (Docker, AWS, CI/CD)**
-- 🧠 Strong advocate for **Clean Architecture & MVI patterns**
-- 💡 Passionate about building **real-world impactful products**
+- Specializing in **Android (Kotlin + Jetpack Compose)**
+- Backend expert in **Spring Boot, Symphony, Laravel & API architecture**
+- Expanding into **DevOps (Docker, AWS, CI/CD)**
+- Strong advocate for **Clean Architecture & MVI patterns**
+- Passionate about building **real-world impactful products**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 📱 Mobile Development
+### Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,spring" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git" />
 </p>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🔥 Featured Projects 
+## Featured Projects 
 
 | Project | Description | Tech Stack | Highlights |
 |--------|------------|-----------|-----------|
