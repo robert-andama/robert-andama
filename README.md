@@ -92,15 +92,15 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Total Time: 20 hrs 58 mins
+Total Time: 19 hrs 38 mins
 
-Other            24 hrs 44 mins        █████████████▓░░░░░░░░░░░   54.12 %
-Vue              11 hrs 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-Kotlin           3 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Markdown         2 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TypeScript       2 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Other            28 hrs 44 mins        ███████████████░░░░░░░░░░   59.40 %
+Vue              14 hrs 58 mins        ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+TypeScript       2 hrs 33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+GitIgnore file   42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Bash             28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
