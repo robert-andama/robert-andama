@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Kotlin • Java • Android • Laravel • Vue.js <br> Building Scalable Mobile & Web Solutions</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Android+(Jetpack+Compose)+Expert;Laravel+API+Architect;Building+Scalable+Systems;Clean+Architecture+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Android+(Jetpack+Compose)+Expert;Laravel+API+Architect;SpringBoot+API+Architect;Building+Scalable+Systems;Clean+Architecture+Advocate" />
 </p>
 
 ---
