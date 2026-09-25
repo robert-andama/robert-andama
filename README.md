@@ -92,15 +92,15 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-Total Time: 3 hrs 26 mins
+Total Time: 4 hrs 53 mins
 
-Other        17 hrs 33 mins        █████████████████████░░░░   83.61 %
-Vue          2 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Bash         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-PHP          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown     7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other        17 hrs 24 mins        ███████████████████▓░░░░░   78.08 %
+Vue          2 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Markdown     59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+PHP          37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Bash         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
