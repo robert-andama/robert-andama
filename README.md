@@ -22,50 +22,52 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 ## Tech Stack
 
 ### Mobile Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter" />
 </p>
 
 ### Backend Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=symfony,laravel,spring,fastapi" />
 </p>
 
 ### Frontend Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nuxtjs,js,ts,html,css,tailwind" />
 </p>
 
 ### Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 ### Cloud & DevOps
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,kubernetes,c,vim" />
 </p>
 
-
-
 ---
 
-## Featured Projects 
+## Featured Projects
 
 | Project | Description | Tech Stack | Highlights |
-|--------|------------|-----------|-----------|
+| -------- | ------------ | ----------- | ----------- |
 | **Hospital App** | A cross-platform mobile loyalty platform for healthcare, enabling patient engagement through rewards, QR-based interactions, and secure authentication flows across Android and iOS. | Kotlin, Jetpack Compose, Swift 5, Laravel | Clean Architecture (MVI), cross-platform development, secure token handling, real-time UX |
 | [**Biblia Trivia App**](https://bible.trivia.api.jengamavitu.com/) | A cross-platform interactive quiz platform delivering engaging Bible trivia through swipe-based gameplay and dynamic content delivery on both Android and iOS. | Kotlin, Swift 5, Laravel | Swipeable UI, animations, gamification logic, optimized backend performance |
 | **Charity Management Platform** | A modular NGO management system built to handle content publishing, donations, and administrative workflows at scale. | Laravel, Vue.js | Dynamic CMS, role-based access control, scalable backend architecture |
 | **JengaBanking — Core Banking System** | A modular, microservices-based Core Banking System (CBS) built for SACCOs and community financial institutions. Designed for the Uganda Credit & Savings Cooperative Union (UCSCU) and adaptable for any SACCO or MFI. | Laravel, FrankenPHP via Laravel Octane | Modular service design, workflow automation, extensible architecture |
-| **JengaBanking — Staff & Operations Console** | The member-facing self-service web application for JengaBanking CBS. A mobile-first portal where SACCO members can view their accounts, make transactions, download statements, and manage their profile. | Laravel, Vue 3 + TypeScript, Inertia.js 2, Tailwind CSS v4  | Modular service design, workflow automation, extensible architecture |
+| **JengaBanking — Staff & Operations Console** | The member-facing self-service web application for JengaBanking CBS. A mobile-first portal where SACCO members can view their accounts, make transactions, download statements, and manage their profile. | Laravel, Vue 3 + TypeScript, Inertia.js 2, Tailwind CSS v4 | Modular service design, workflow automation, extensible architecture |
 | **JengaBanking — Member Portal** | A modular, microservices-based Core Banking System (CBS) built for SACCOs and community financial institutions. Designed for the Uganda Credit & Savings Cooperative Union (UCSCU) and adaptable for any SACCO or MFI. | Laravel, Vue 3 + TypeScript, Inertia.js 2, Tailwind CSS v4 | Modular service design, workflow automation, extensible architecture |
 | **Ride Hailing API** | A RESTful backend system powering ride-hailing operations, including trip management, driver-passenger interactions, and booking flows. | JAVA Spring Boot, REST API | Scalable API design, service-oriented architecture, real-time booking logic |
 | **Smart Agriculture Network** | An IoT-driven agriculture platform that collects and processes environmental data to enable smart farming decisions and resource optimization. | IoT, Backend Systems | Sensor integration, real-time monitoring, data-driven insights |
-| **CRB Data Warehouse** | A centralized data aggregation and processing system for financial/credit data, supporting analytics, reporting, and decision-making pipelines. | Symfony, Data Systems | ETL pipelines, data normalization, scalable reporting architecture |
+| [**CRB Data Warehouse**](https://crb.jengamavitu.com/) | A centralized data aggregation and processing system for financial/credit data, supporting analytics, reporting, and decision-making pipelines. | Symfony, Data Systems | ETL pipelines, data normalization, scalable reporting architecture |
 | [**Prayer For All People**](https://prayerforallpeople.org/) | A community-driven platform enabling users to share and engage with structured prayer content in a scalable digital environment. | Laravel | User-generated content system, simple scalable backend |
 | **Poultry Management System** | A domain-specific farm management system for poultry operations, tracking livestock lifecycle, production metrics, and farm efficiency. | VueJs | Livestock tracking, farm analytics, optimized data modeling |
- 
 
 ---
 
@@ -85,7 +87,6 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 </p>
 
 ---
-
 
 ## Weekly Development Breakdown
 
