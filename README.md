@@ -63,7 +63,7 @@ I’m a **Full Stack Developer with 8+ years of experience** building scalable m
 | **Ride Hailing API** | A RESTful backend system powering ride-hailing operations, including trip management, driver-passenger interactions, and booking flows. | JAVA Spring Boot, REST API | Scalable API design, service-oriented architecture, real-time booking logic |
 | **Smart Agriculture Network** | An IoT-driven agriculture platform that collects and processes environmental data to enable smart farming decisions and resource optimization. | IoT, Backend Systems | Sensor integration, real-time monitoring, data-driven insights |
 | **CRB Data Warehouse** | A centralized data aggregation and processing system for financial/credit data, supporting analytics, reporting, and decision-making pipelines. | Symfony, Data Systems | ETL pipelines, data normalization, scalable reporting architecture |
-| **Prayer For All People** | A community-driven platform enabling users to share and engage with structured prayer content in a scalable digital environment. | Laravel | User-generated content system, simple scalable backend |
+| [**Prayer For All People**](https://prayerforallpeople.org/) | A community-driven platform enabling users to share and engage with structured prayer content in a scalable digital environment. | Laravel | User-generated content system, simple scalable backend |
 | **Poultry Management System** | A domain-specific farm management system for poultry operations, tracking livestock lifecycle, production metrics, and farm efficiency. | VueJs | Livestock tracking, farm analytics, optimized data modeling |
  
 
